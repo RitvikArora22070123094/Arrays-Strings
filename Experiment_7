@@ -26,8 +26,8 @@ Enter the string to display :Symbiosis
 The name is :Symbiosis
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/* 
+ 22070123094
 Exp-7(Part-B)
 String Length
 */
@@ -51,8 +51,8 @@ int main()
 Length of string is :9
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/* 
+ 22070123094
 Exp-7(Part-B)
 String Length
 */
@@ -81,8 +81,8 @@ The inputted string is: symbiosis
 The size of the string is: 9
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/* 
+ 22070123094
 Exp-7(Part-C)
 String concatenation*/
 #include<iostream>
@@ -115,8 +115,8 @@ Given String is reversed :ygolonhceTsisoibmyS
 */
 
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/* 
+ 22070123094
 Exp-7(Part-D)
 String Palindome or not*/
 
@@ -162,8 +162,8 @@ Enter a string: Symbiosis
 sisoibmyS
 Palindrome
 */
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/* 
+ 22070123094
 Exp-7(Part-E)
 Enter The marks of 10 subjects and display it.
 */
@@ -189,8 +189,8 @@ Marks:97
 Marks:100
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/* 
+ 22070123094
 EXP=7(PART F)
 Enter the marks of subjects from user and display it.
 */
@@ -247,8 +247,8 @@ Enter the marks of each subjects:
  marks:100
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/* 
+ 22070123094
 EXP=7(PART F)
 # include <iostream>
 using namespace std;
